@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jerbas
+- 👋 Hi, I’m @cerbas
 - 👀 I’m interested in database languages SQL, NoSQL.
 - 🌱 I’m currently learning NoSQL and Python
 - 💞️ I'm looking to collaborate database developers.
